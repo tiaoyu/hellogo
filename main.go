@@ -3,5 +3,5 @@ package main
 import ("fmt")
 
 func main() {
-    fmt.Println("hello, go! This is hotfixed!")
+    fmt.Println("Hello, Go! This is update1.0~")
 }
